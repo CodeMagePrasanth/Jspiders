@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Core python/python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web Development/Project1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts/project10_Jinja_printing_tag" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts/project14_specific_static_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts/project4_multi_apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts/project5_specific_url_mapping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts/project6_Html_response" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts/project9_app_ass2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_1/Scripts/project_static_creation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django project/envs/virtualenv_2/Scripts/mywebsite" vcs="Git" />
+  </component>
+</project>
